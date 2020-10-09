@@ -1,3 +1,5 @@
 module.exports = {
-  lintOnSave: false
+  lintOnSave: false,
+  publicPath: '/',
+  outputDir: process.env.NODE_ENV === 'production' ? '/var/www/events/client' : 'dist'
 }
