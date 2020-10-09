@@ -20,6 +20,7 @@
       <div class="navbar-start">
         <router-link to="/" class="navbar-item">Home</router-link>
         <router-link to="/about" class="navbar-item">About</router-link>
+        <a href="https://gc.dygc.site" class="navbar-item">地狱鬼才</a>
       </div>
       <div class="navbar-end">
         <div class="navbar-item">
